@@ -1,0 +1,24 @@
+Методы list
+1.	list.append(x)
+2.	list.pop([i])
+3.	list.sort([key=функция])
+4.	list.insert(i, x)
+5.	list.remove(x)
+Методы строка
+1.	S.isdigit()
+2.	S.upper()
+3.	S.lower()
+4.	S.split(символ)
+5.	len(S)
+Методы Set
+1.	len(s)
+2.	set.add(elem)
+3.	set.pop()
+4.	set.copy()
+5.	set.discard(elem)
+Методы Словари
+1.	set.discard(elem)
+2.	dict.keys()
+3.	dict.values()
+4.	dict.pop(key[, default])
+5.	dict.get(key[, default])
